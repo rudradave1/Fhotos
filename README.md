@@ -1,6 +1,9 @@
-# Unsplash-Image-Search-App
+# Fhotos
 
-The Unsplash Image Search App is a simple Android application written in Kotlin that showcases Android Architecture Components, Dagger, and MVVM. The app allows users to search for images using the Unsplash API and displays the results in a RecyclerView. Upon clicking on a particular item, the app opens a fragment with more details about the selected image.
+![fhotospresentation (1)](https://github.com/rudradave1/Fhotos/assets/35660907/24efaa32-b376-4c33-9137-4d10a934c800)
+
+
+Fhotos is a simple Android application written in Kotlin that showcases Android Architecture Components, Dagger, and MVVM. The app allows users to search for images using the Unsplash API and displays the results in a RecyclerView. Upon clicking on a particular item, the app opens a fragment with more details about the selected image.
 
 ## Features
 
