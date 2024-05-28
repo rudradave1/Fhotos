@@ -42,9 +42,9 @@ unsplashAccessKey="YOUR_API_ACCESS_KEY"
 
 ## Contribution
 
-Contributions to the Unsplash Image Search App project are welcome. If you find any issues or want to enhance the app with new features, feel free to submit a pull request.
+Contributions to the Unsplash Fhotos project are welcome. If you find any issues or want to enhance the app with new features, feel free to submit a pull request.
 
 ## Acknowledgments
 
-- [Unsplash](https://unsplash.com/developers): The Unsplash Image Search App utilizes the Unsplash API for fetching high-quality images.
+- [Unsplash](https://unsplash.com/developers): The Unsplash Fhotos utilizes the Unsplash API for fetching high-quality images.
 
