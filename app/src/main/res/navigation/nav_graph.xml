@@ -6,7 +6,7 @@
     app:startDestination="@id/galleryFragment2">
     <fragment
         android:id="@+id/galleryFragment2"
-        android:name="com.rudra.imagesearchapp.ui.gallery.GalleryFragment"
+        android:name="com.rudra.fhotos.ui.gallery.GalleryFragment"
         android:label="Gallery"
         tools:layout="@layout/fragment_gallery">
         <action
@@ -15,11 +15,11 @@
     </fragment>
     <fragment
         android:id="@+id/detailsFragment"
-        android:name="com.rudra.imagesearchapp.ui.details.DetailsFragment"
+        android:name="com.rudra.fhotos.ui.details.DetailsFragment"
         android:label="Photo"
         tools:layout="@layout/fragment_details">
         <argument
             android:name="photo"
-            app:argType="com.rudra.imagesearchapp.data.UnsplashPhoto" />
+            app:argType="com.rudra.fhotos.data.UnsplashPhoto" />
     </fragment>
 </navigation>
