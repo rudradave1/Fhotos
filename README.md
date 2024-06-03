@@ -5,6 +5,13 @@
 
 Fhotos is a simple Android application written in Kotlin that showcases Android Architecture Components, Dagger, and MVVM. The app allows users to search for images using the Unsplash API and displays the results in a RecyclerView. Upon clicking on a particular item, the app opens a fragment with more details about the selected image.
 
+
+Download
+| Android | 
+|:-:|
+
+[<img src="https://github.com/rudradave1/DefineEasy/assets/35660907/14acc868-63f6-452e-bf20-671deeb1c4b2" height="50">](https://play.google.com/store/apps/details?id=com.rudra.defineeasy) 
+
 ## Features
 
 - Image search using the Unsplash API
