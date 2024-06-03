@@ -10,7 +10,7 @@ Download
 | Android | 
 |:-:|
 
-[<img src="https://github.com/rudradave1/DefineEasy/assets/35660907/14acc868-63f6-452e-bf20-671deeb1c4b2" height="50">](https://play.google.com/store/apps/details?id=com.rudra.defineeasy) 
+[<img src="https://github.com/rudradave1/DefineEasy/assets/35660907/14acc868-63f6-452e-bf20-671deeb1c4b2" height="50">](https://play.google.com/store/apps/details?id=com.rudra.fhotos) 
 
 ## Features
 
